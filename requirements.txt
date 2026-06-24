@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+speechrecognition
+jinja2
